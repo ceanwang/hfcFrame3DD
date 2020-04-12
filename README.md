@@ -31,7 +31,7 @@ Read in the `hFrame3DDfc.txt` file and draw the mesh and displacement.
 * FreeCAD v0.19.x
 
 ## Installation
-Currently this workbench works on Windows.  
+This workbench is develped on Windows.  
 Note: Frame3DD excutable file must be located at FreeCad's `bin/` folder. It is named `Frame3DD.exe` under Window 10.
 
 ## Discussion
