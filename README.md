@@ -13,17 +13,17 @@ Accessing Frame3DD within FreeCAD
 Currently this workbench contains the following tools:
 
 ###  Reading 3DD files 
-The ability to read in an 3DD case file. It also copies said 3DD file into FreeCad's `bin/` folder and renames it as `hFrame3DDfc.3DD`.
+The ability to read in an 3DD case file. It also copies said 3DD file into FreeCad's `bin/` folder and renames it as `hfcFrame3DD.3DD`.
 
 ### Outputting 3DD file
 Not implemented yet.  
 Output a new 3DD file when user makes some change to the model or load.
 
 ### Run Frame3DD
-Execture the `Frame3DD` binary which reads in the `hFrame3DDfc.3DD` file and writes the result into the `hFrame3DDfc.txt` file (within FreeCad's `bin/` folder).
+Execture the `Frame3DD` binary which reads in the `hfcFrame3DD.3DD` file and writes the result into the `hfcFrame3DD.txt` file (within FreeCad's `bin/` folder).
 
 ### Show Results
-Read in the `hFrame3DDfc.txt` file and draw the mesh and displacement.
+Read in the `hfcFrame3DD.txt` file and draw the mesh and displacement.
 
 ## Prerequisites
 
