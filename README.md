@@ -1,4 +1,4 @@
-## hFrame3DDfc
+## hfcFrame3DD
 Accessing Frame3DD within FreeCAD
 
 ![Frame3dd-screenshot](https://user-images.githubusercontent.com/4140247/78903287-e7001e00-7a48-11ea-939d-0ac8b7da99cd.png)
