@@ -20,7 +20,7 @@ Not implemented yet.
 Output a new 3DD file when user makes some change to the model or load.
 
 ### Run Frame3DD
-Execture the `Frame3DD` binary which reads in the `hfcFrame3DD.3DD` file and writes the result into the `hfcFrame3DD.txt` file (within FreeCad's `bin/` folder).
+Execute the `Frame3DD` binary which reads in the `hfcFrame3DD.3DD` file and writes the result into the `hfcFrame3DD.txt` file (within FreeCad's `bin/` folder).
 
 ### Show Results
 Read in the `hfcFrame3DD.txt` file and draw the mesh and displacement.
