@@ -41,4 +41,4 @@ Download as hFrame3DD.zip and unzip it under FreeCad's `Mod/` folder. The result
 Feedback, discussion, and any participation can be done through the [dedicated FreeCAD forum thread](https://forum.freecadweb.org/viewtopic.php?f=18&t=45026) 
 
 ## License
-GPL v3.0 (see [LICENSE](LICENCE) file)
+GPL v3.0 (see [LICENSE](LICENCE) file) + Not for commercial use.
